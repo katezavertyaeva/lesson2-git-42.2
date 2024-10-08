@@ -1,8 +1,12 @@
-h6 {
-  font-size: 32px;
-  color: blue;
+#root {
+  display: flex;
+  flex-direction: column;
 }
 
-p {
-  font-size: 26px;
+header {
+  background-color: aquamarine;
+}
+
+footer {
+  background-color: aqua;
 }
